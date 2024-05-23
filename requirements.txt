@@ -1,0 +1,14 @@
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+pytz
+openai
+dash
+dash-bootstrap-components
+loguru
+requests
+pandas
+alive-progress
+python-dotenv
+dash-google-picker

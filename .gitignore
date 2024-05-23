@@ -1,0 +1,8 @@
+access_token.json
+.env
+client_secret.json
+client_secret_drive.json
+drive-api-credentials.json
+gmail-api-credentials.json
+access_token.json
+/__pycache__
